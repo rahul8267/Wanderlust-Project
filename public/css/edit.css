@@ -1,0 +1,9 @@
+.edit-image {
+  height: 200px;
+  width: 200px;
+}
+
+.edit-btn {
+  align-items: center;
+  padding: 10px;
+}
